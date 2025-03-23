@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, Yao-Rong there 👋
 
-<!--
-**DragonChen-TW/DragonChen-TW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 I'm an ML Engineer & Researcher
+- 📖 Research interest: CV(Computer Vision), Explainable ML, GNN(Graph Neural Network)
+- 💻 Engineering skills: Web Development(Full Stack), Algorithms, MLOps...
+- 🧰 I can do CV/DL research, make implementations, operate it with MLOps flow.
+- 💬 I'm passionate about learning new technologies and sharing with others (blog, teaching)
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,flask,fastapi,react,docker,kubernetes,linux,go,py,js)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+### Research
+- [SPGIE_thesis](https://github.com/DragonChen-TW/SPGIE_thesis) Master thesis about a CV explainer of GNN.
+- [PyTorch-AutoEncoder](https://github.com/DragonChen-TW/PyTorch-AutoEncoder) Some experimental auto-encoder variants.
+<!-- - (not publish) Multi-Modal Analysis of Tropes and Narratives in Participatory - research project when visiting uPitts. -->
+
+### ML
+- [Objdetect-YOLOv10](https://github.com/DragonChen-TW/objdetect-yolov10) 🆕  An YOLOv10 demo with some new Python packages.
+- [grpc-df-transfer](https://github.com/DragonChen-TW/grpc-df-transfer) Transfering dataframes through grpc with some efficient way.
+
+### misc
+- [algorithms-go](https://github.com/DragonChen-TW/algorithms-go) A CLRS book implementations of algorithms in go.
+- [CaveStorg-go](https://github.com/DragonChen-TW/CaveStory-go) A game reconstructed of Cave Story with Go and Ebiten.
+- [React-2021](https://github.com/DragonChen-TW/JS-React_2021) A ReactJS course was taught in 2021 at NSYSU Web Programming Research Club.
+- [Advanced-Python-2019](https://github.com/DragonChen-TW/AdvancedPython_2019) An Advanced Python course was taught in 2019 at NSYSU Web Programming Research Club.
