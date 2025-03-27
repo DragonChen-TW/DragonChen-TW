@@ -11,12 +11,12 @@
 ## Selected Projects
 ### Research
 - [SPGIE_thesis](https://github.com/DragonChen-TW/SPGIE_thesis) Master thesis about a CV explainer of GNN.
-- [PyTorch-AutoEncoder](https://github.com/DragonChen-TW/PyTorch-AutoEncoder) Some experimental auto-encoder variants.
-<!-- - (not publish) Multi-Modal Analysis of Tropes and Narratives in Participatory - research project when visiting uPitts. -->
+- [IRMAE](https://github.com/DragonChen-TW/PyTorch-AutoEncoder/tree/master/irmae) An implementation/research of IRMAE(Implicit Rank-Minimizing Autoencoder).
+- [WIP] (not publish) Multi-Modal Analysis of Tropes and Narratives in Participatory - research project when visiting uPitts.
 
 ### ML
-- [Objdetect-YOLOv10](https://github.com/DragonChen-TW/objdetect-yolov10) 🆕  An YOLOv10 demo with some new Python packages.
-- [grpc-df-transfer](https://github.com/DragonChen-TW/grpc-df-transfer) Transfering dataframes through grpc with some efficient way.
+- [Objdetect-YOLOv10](https://github.com/DragonChen-TW/objdetect-yolov10) 🆕  An YOLOv10 inference demo with uv, a new blazing fast Python package manager.
+- [grpc-df-transfer](https://github.com/DragonChen-TW/grpc-df-transfer) Transfering data frames through grpc in some efficient ways.
 
 ### misc
 - [algorithms-go](https://github.com/DragonChen-TW/algorithms-go) A CLRS book implementations of algorithms in go.
